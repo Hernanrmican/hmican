@@ -1,0 +1,23 @@
+Clona Proyecto 
+$ git clone https://github.com/kizamahernan/proyecto-git-.git
+
+Actualiza master a raiz viceversa
+$ git rebase master
+
+Cambiarse de master a raiz viceversa
+$ git checkout master
+
+Consultar los archivos para hacer el commit
+$ git status
+
+Hacer el commit de los cambios
+$ git commit -m "Comentario"
+
+Subir el cambio el servidor
+$ git push origin raiz
+
+Bajar los cambios del servidor
+$ git pull origin raiz
+
+
+
