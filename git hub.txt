@@ -19,5 +19,11 @@ $ git push origin raiz
 Bajar los cambios del servidor
 $ git pull origin raiz
 
+Crear proyecto
+git ini
+
+Vincular Repositorio
+git remote add origin []
+
 
 
